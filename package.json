@@ -271,6 +271,7 @@
     ]
   },
   "scripts": {
+    "prepare": "aegir build",
     "clean": "aegir clean",
     "lint": "aegir lint",
     "build": "aegir build",
